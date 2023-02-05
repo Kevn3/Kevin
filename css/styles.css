@@ -51,7 +51,7 @@ a {
 
 .topContainer {
     background-color: #F7F5EB;
-    padding-top: 15%;
+    padding-top: 10%;
     position: relative;
 }
 
@@ -71,7 +71,7 @@ a {
 }
 
 .profile {
-    padding-bottom: 5%;
+    padding-bottom: 15%;
 }
 
 .boy {
@@ -105,7 +105,7 @@ a {
 }
 
 .skills {
-    padding-top: 5%;
+    padding-top: 15%;
 }
 
 .skill-row1 {
@@ -125,7 +125,7 @@ a {
 
 .skill-row1 {
     width: 50%;
-    margin: 100px auto 5px auto;
+    margin: 150px auto 150px auto;
     text-align: left;
     line-height: 2;
     padding-bottom: 55px;
